@@ -18,7 +18,7 @@
     "del-cli": "^3.0.1",
     "filereader-stream": "^2.0.0",
     "mocha": "^8.3.0",
-    "music-metadata": "^7.8.7",
+    "music-metadata": "^7.8.8",
     "ts-loader": "^8.0.10",
     "ts-node": "^9.1.1",
     "tslint": "^6.1.3",
